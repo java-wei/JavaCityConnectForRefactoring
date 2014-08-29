@@ -34,9 +34,6 @@ import java.util.Scanner;
  * @author Dave Jun
  */
 
-
-
-
 public class CityConnect {
 
 	/*
